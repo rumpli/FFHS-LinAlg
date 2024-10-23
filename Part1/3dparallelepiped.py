@@ -2,7 +2,7 @@ from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 import numpy as np
 import matplotlib.pyplot as plt
 
-from Part1.parallelpiped import Parallelepiped, project, draw_projection
+from Part1.parallelepiped import Parallelepiped, project, draw_projection
 
 
 def draw_3d_parallelepiped(parallelepiped: Parallelepiped, title: str):

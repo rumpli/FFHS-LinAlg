@@ -220,7 +220,7 @@ def main():
     vector_b = np.array([3, 1, 3])  # Vektor b
     vector_c = np.array([3, 2, 1])  # Vektor c
 
-    # Erstellung des Parallelpiped Objekt
+    # Erstellung des Parallelepiped Objekt
     parallelepiped_object = Parallelepiped(vector_s, vector_a, vector_b, vector_c)
 
     # Projektionszentrum (camera_point = np.array([x, y, z])) beeinflusst die Projektion
