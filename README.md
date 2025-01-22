@@ -10,7 +10,7 @@ Table of Contents
 * [What is this about?](#what-is-this-about)
   + [Part 1 Zentralprojektion](#part-1-zentralprojektion)
   + [Part 2 Codierungstheorie](#part-2-codierungstheorie)
-  + [Part 3 Signal- und Bilddatenkomprimierung](#part-3-signal-und-bilddatenkomprimierung)
+  + [Part 3 Signal- und Bilddatenkomprimierung](#part-3-signal--und-bilddatenkomprimierung)
 * [Grades](#grades)
 * [More FFHS projects](#more-ffhs-projects)
 
