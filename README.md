@@ -18,7 +18,7 @@ Table of Contents
 
 ### What is this about?
 This project is the semester work from the "Lineare Algebra" module at the FFHS (HS24/25). Python code was written with PyCharm.
-There are in three four parts of this semester's work, each with Python implementation and documentation.
+This semester's work has three parts, each with Python implementation and documentation.
 
 #### Part 1 Zentralprojektion
 Documentation & evaluation: [MyCloud](https://www.mycloud.ch/s/S00D1BACEEE2FD2A01766058099A926EDFD4810FC74)
