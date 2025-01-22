@@ -31,8 +31,8 @@ Documentation & evaluation: [MyCloud](https://www.mycloud.ch/s/S002E889AB67BFDCE
 
 
 #### Grades
-- Part 1: 
-- Part 2: 
+- Part 1: 5.4
+- Part 2: 5.6
 - Part 3: 
 
 ### More FFHS projects
